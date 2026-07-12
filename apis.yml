@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://docs.bic-boxtech.org/
 common:
+  - type: DomainSecurity
+    url: security/bic-boxtech-domain-security.yml
   - type: Website
     url: https://docs.bic-boxtech.org/
   - type: PublicAPIsListing
