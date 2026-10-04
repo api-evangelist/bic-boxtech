@@ -39,7 +39,6 @@ apis:
   - name: BIC-Boxtech
     description: "Container technical detail for the global container fleet"
     humanURL: https://docs.bic-boxtech.org/
-    baseURL: https://docs.bic-boxtech.org/
     tags:
       - Transportation
     properties:
