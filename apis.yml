@@ -27,7 +27,7 @@ description: "Container technical detail for the global container fleet"
 url: https://docs.bic-boxtech.org/
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Transportation"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://docs.bic-boxtech.org/
 common:
+  - url: https://docs.bic-boxtech.org/blog/
+    type: Blog
   - type: DomainSecurity
     url: security/bic-boxtech-domain-security.yml
   - type: Website
